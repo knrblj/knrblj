@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Koneru Balaji
-- 👀 I’m interested in Hacking, Software development
+- 👀 I’m interested in Cybersecurity, Software development
 - 🌱 I’m currently pursuing my BE
 - 💞️ I’m looking to work in a challenging environment
 - 📫 Ping me at knrblj@gmail.com
